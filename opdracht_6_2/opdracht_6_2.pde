@@ -7,3 +7,8 @@ String sneeuw = "Wit";
 if(sneeuw == "Wit"){
 println("" + true);
 }
+
+int jantje = 6;
+if(jantje == 4){
+println("" + true);
+}
