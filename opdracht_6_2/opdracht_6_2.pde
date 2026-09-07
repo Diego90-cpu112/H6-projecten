@@ -12,3 +12,9 @@ int jantje = 6;
 if(jantje == 6){
 println("" + true);
 }
+
+String datum = "01-04";
+String mijnVerjaardag = "01-04";
+if(mijnVerjaardag == datum){
+println("" + true);
+}
