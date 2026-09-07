@@ -23,3 +23,8 @@ double mijnLengte = 1.60;
 if(mijnLengte == 1.60){
 println("" + true);
 }
+
+int mijnMondGehouden = 15;
+if(mijnMondGehouden == 10){
+println("" + true);
+}
