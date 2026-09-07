@@ -25,6 +25,6 @@ println("" + true);
 }
 
 int mijnMondGehouden = 15;
-if(mijnMondGehouden == 10){
+if(mijnMondGehouden == 15){
 println("" + true);
 }
