@@ -9,6 +9,6 @@ println("" + true);
 }
 
 int jantje = 6;
-if(jantje == 4){
+if(jantje == 6){
 println("" + true);
 }
