@@ -4,6 +4,6 @@ println("" + true);
 }
 
 String sneeuw = "Wit";
-if(sneeuw == "Geel"){
+if(sneeuw == "Wit"){
 println("" + true);
 }
