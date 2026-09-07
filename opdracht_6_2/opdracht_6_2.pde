@@ -18,3 +18,8 @@ String mijnVerjaardag = "01-04";
 if(mijnVerjaardag == datum){
 println("" + true);
 }
+
+double mijnLengte = 1.60;
+if(mijnLengte == 1.60){
+println("" + true);
+}
